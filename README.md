@@ -1,10 +1,10 @@
-# IoT Weather Station
+# Weather Forecasting System
 
-The following project is a simple implementation of a weather monitoring station based on the ESP8266 powered device. It runs as a client for platform-independent server web service written using Go and a little bit of JavaScript.
+The project that follows is a straightforward implementation of a weather monitoring station powered by an ESP8266 chip. It functions as a client for a Go- and minimally JavaScript-written platform-independent server web service.
 
 ## Built with
 
-This project would not be possible without following great open source libraries.
+Without the amazing open source libraries listed below, this project would not be possible.
 
 Client code for IOT device:
 
@@ -22,10 +22,5 @@ Server web service:
 * [axios](https://github.com/axios/axios)
 * [Moment.js](https://github.com/moment/moment)
 
-## More information
-
-There is a [blog post](https://kiesiu.com/internet-of-things-lets-build-something/) describing what the purpose of this repository is.
-
 ## License
-
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
