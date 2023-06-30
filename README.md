@@ -21,6 +21,3 @@ Server web service:
 * [lodash](https://github.com/lodash/lodash)
 * [axios](https://github.com/axios/axios)
 * [Moment.js](https://github.com/moment/moment)
-
-## License
-This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
